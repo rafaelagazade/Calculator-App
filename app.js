@@ -41,7 +41,7 @@ window.addEventListener("load", () => {
 
 basicBtn.onclick = () => {
   view.style.display = "block";
-  view.setAttribute("src", "./calculator basic/calculate.html");
+  view.setAttribute("src", "./calculator_basic/calculate.html");
   body.style.background = "#22262d";
   view.style.border = "10px solid #22262d";
   basicBtn.style.background = "#22262d";
@@ -88,7 +88,7 @@ basicBtn.onclick = () => {
 
 complexBtn.onclick = () => {
   view.style.display = "block";
-  view.setAttribute("src", "calculator complex/calculator-2.html");
+  view.setAttribute("src", "calculator_complex/calculator-2.html");
   body.style.background = "#1f2229";
   view.style.border = "10px solid #1f2229";
   basicBtn.style.background = "#1f2229";
@@ -132,7 +132,7 @@ complexBtn.onclick = () => {
 
 themeToggleBtn.onclick = () => {
   view.style.display = "block";
-  view.setAttribute("src", "calculator theme toggle/calculatorV3.html");
+  view.setAttribute("src", "calculator_theme_toggle/calculatorV3.html");
   body.style.background = "#071115";
   view.style.border = "10px solid #071115";
   themeToggleBtn.style.background = "#071115";

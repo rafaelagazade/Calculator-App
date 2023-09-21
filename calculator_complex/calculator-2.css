@@ -82,30 +82,30 @@ body {
           font-weight: 700;
           color: #fff; }
 
-@media (min-width: 0px) and (max-width: 320px) {
+@media (min-width: 0px) and (max-width: 339px) {
   body .app .calculator {
     width: 100%;
     height: 80%;
     margin-left: 11px; }
     body .app .calculator .keys .key span {
       font-size: 20px; } }
-@media (min-width: 340px) and (max-width: 375px) {
+@media (min-width: 340px) and (max-width: 399px) {
   body .app .calculator {
     width: 90%;
     margin-right: 20px; }
     body .app .calculator .keys .key span {
       font-size: 23px; } }
-@media (min-width: 400px) and (max-width: 425px) {
+@media (min-width: 400px) and (max-width: 424px) {
   body .app .calculator {
     width: 90%;
     margin-right: 18px;
     height: 80%; }
     body .app .calculator .keys .key span {
       font-size: 23px; } }
-@media (min-width: 425px) and (max-width: 768px) {
+@media (min-width: 425px) and (max-width: 1439px) {
   .app .calculator {
-    width: 60%;
-    height: 63%; } }
+    width: 70%;
+    height: 83%; } }
 @media (min-width: 1440px) and (max-width: 1441px) {
   .app .calculator {
     width: 50%;
